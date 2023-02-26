@@ -7,3 +7,5 @@ También incluye imágenes alternativas en la carpeta imagenes en caso de que se
 Capturas de pantalla:
 Primera parte de la página web:
 ![image](https://user-images.githubusercontent.com/91776782/221443747-03a5e305-1dda-4587-a130-378541d8f603.png)
+![image](https://user-images.githubusercontent.com/91776782/221443781-27e3cd71-d433-485d-8a2d-4d88d1e94737.png)
+![image](https://user-images.githubusercontent.com/91776782/221443795-ceb5753f-1ba8-48ab-8f1d-b9df56787507.png)
