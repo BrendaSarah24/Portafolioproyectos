@@ -415,3 +415,9 @@
       max-width: 600px;
     }
   }
+ .contenedor:hover{
+       color: #310b1a;
+  }
+  .seccion-oscura:hover{
+    background-color: #8644b5;
+}
